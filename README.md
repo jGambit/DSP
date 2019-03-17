@@ -1,2 +1,2 @@
-# DSP
-Digita Signal Processing using Java
+# LeMaLAP
+Experiments using Python and Machine Learning basics.
